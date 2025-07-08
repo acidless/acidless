@@ -17,6 +17,7 @@
 - [Rubtinizer](https://github.com/acidless/rubtinizer) — таск-мэнеджер с drag-n-drop
 - [KP11 Messenger](https://github.com/acidless/kp11-messneger) и [KP11 Messenger Server](https://github.com/acidless/kp11-messenger-server) — мессенджер для колледжа
 - [Yandex Schedule API](https://github.com/acidless/YandexScheduleAPI) - библиотека для работы с API Яндекс расписаний
+- [Three Space 3D](https://github.com/acidless/three-space) - интерактивная модель Солнечной системы на Three.js
 
 ## 💻 Технологии и инструменты
 
