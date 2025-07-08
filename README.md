@@ -12,6 +12,10 @@
 - 🌱 Веду работу над проектом по визуализации алгоритмов
 - 📫 Как связаться: odkukunov@gmail.com | https://t.me/acidless13
 
+## 🚀 Проекты
+
+- [Rubtinizer](https://github.com/acidless/rubtinizer) — таск-мэнеджер с drag-n-drop
+
 ## 💻 Технологии и инструменты
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
