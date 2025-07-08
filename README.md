@@ -8,13 +8,14 @@
 
 - 💼 Сейчас ищу работу как Frontend Developer (React, TypeScript, Vue)
 - 🎓 Обучаюсь в ИТМО на специальности "Разработка ПО"
-- 🛠 Люблю изучать новые технологии.
+- 🛠 Люблю изучать новые технологии
 - 🌱 Веду работу над проектом по визуализации алгоритмов
 - 📫 Как связаться: odkukunov@gmail.com | https://t.me/acidless13
 
 ## 🚀 Проекты
 
 - [Rubtinizer](https://github.com/acidless/rubtinizer) — таск-мэнеджер с drag-n-drop
+- [KP11 Messenger](https://github.com/acidless/kp11-messneger) и [KP11 Messenger Server](https://github.com/acidless/kp11-messenger-server) — мессенджер для колледжа
 
 ## 💻 Технологии и инструменты
 
@@ -27,4 +28,4 @@
 ## 📬 Связь
 
 - Email: odkukunov@gmail.com
-- Telegram: [@yourhandle](https://t.me/acidless13)
+- Telegram: [@acidless13](https://t.me/acidless13)
