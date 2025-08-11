@@ -13,13 +13,19 @@
 - 💂 Уровень английского B2
 - 📫 Как связаться: odkukunov@gmail.com | https://t.me/acidless13
 
+---
+
 ## 🚀 Проекты
 
-- [Rubtinizer](https://github.com/acidless/rubtinizer) — таск-мэнеджер с drag-n-drop
-- [KP11 Messenger](https://github.com/acidless/kp11-messneger) и [KP11 Messenger Server](https://github.com/acidless/kp11-messenger-server) — мессенджер для колледжа
-- [Yandex Schedule API](https://github.com/acidless/YandexScheduleAPI) - библиотека для работы с API Яндекс расписаний
-- [Three Space 3D](https://github.com/acidless/three-space) - интерактивная модель Солнечной системы на Three.js
-- [Sortify](https://github.com/acidless/sortify) - интерактивный визуализатор алгоритмов
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [**Rubitnizer**](https://github.com/acidless/rubitnizer) | Таск-менеджер с drag-n-drop и удобным UI | Angular, Electron |
+| [**KP11 Messenger**](https://github.com/acidless/kp11-messenger), [**KP11 Messenger Server**](https://github.com/acidless/kp11-messenger-server) | Мессенджер для колледжа | React, Nest.js |
+| [**Yandex Schedule API**](https://github.com/acidless/YandexScheduleAPI) | Библиотека для работы с API Яндекс.Расписаний | C++ |
+| [**Three Space 3D**](https://github.com/acidless/three-space) | Интерактивная 3D модель Солнечной системы | Three.js |
+| [**Sortify**](https://github.com/acidless/sortify) | Визуализатор алгоритмов сортировки | React |
+
+---
 
 ## 💻 Технологии и инструменты
 
@@ -29,7 +35,17 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
+### 📊 GitHub Статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acidless&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acidless&layout=compact&theme=github_dark" height="160" />
+</p>
+
+---
+
 ## 📬 Связь
 
-- Email: odkukunov@gmail.com
-- Telegram: [@acidless13](https://t.me/acidless13)
+- Email: **[odkukunov@gmail.com](mailto:odkukunov@gmail.com)**
+- Telegram: **[@acidless13](https://t.me/acidless13)**
