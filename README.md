@@ -37,9 +37,9 @@
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acidless&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://leetcard.jacoblin.cool/acidless" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acidless&layout=compact&theme=github_dark" height="160" />
 </p>
 
