@@ -29,13 +29,11 @@
 
 ---
 
-## 💻 Технологии и инструменты
+## 💻 Стэк
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,nestjs,git,docker,cpp,php,python,redis,postgresql,mongodb)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## ⚒️ Инструменты
+[![My Skills](https://skillicons.dev/icons?i=github,windows,linux,ubuntu,discord,webstorm,phpstorm,clion,pycharm,vim,stackoverflow,postman,obsidian,remix,figma)](https://skillicons.dev)
 
 ---
 
