@@ -19,11 +19,13 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [**Rubitnizer**](https://github.com/acidless/rubitnizer) | Таск-менеджер с drag-n-drop и удобным UI | Angular, Electron |
+| [**Sortify**](https://github.com/acidless/sortify) | Визуализатор алгоритмов сортировки | React |
+| [**Stateus**](https://github.com/acidless/stateus) | Легкая библиотека для управления состоянием | TypeScript |
+| [**Three Space 3D**](https://github.com/acidless/three-space) | Интерактивная 3D модель Солнечной системы | Three.js |
 | [**KP11 Messenger**](https://github.com/acidless/kp11-messenger), [**KP11 Messenger Server**](https://github.com/acidless/kp11-messenger-server) | Мессенджер для колледжа | React, Nest.js |
 | [**Yandex Schedule API**](https://github.com/acidless/YandexScheduleAPI) | Библиотека для работы с API Яндекс.Расписаний | C++ |
-| [**Three Space 3D**](https://github.com/acidless/three-space) | Интерактивная 3D модель Солнечной системы | Three.js |
-| [**Sortify**](https://github.com/acidless/sortify) | Визуализатор алгоритмов сортировки | React |
+| [**Rubitnizer**](https://github.com/acidless/rubitnizer) | Таск-менеджер с drag-n-drop и удобным UI | Angular, Electron |
+
 
 ---
 
