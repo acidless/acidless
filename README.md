@@ -39,6 +39,11 @@
 
 ### 📊 Статистика
 <p align="center">
+  <a href="https://github.com/acidless/leetcode">
+    <img src="https://img.shields.io/badge/📘_My%20LeetCode%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/acidless" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acidless&layout=compact&theme=github_dark" height="160" />
 </p>
