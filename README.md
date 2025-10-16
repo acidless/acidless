@@ -19,7 +19,7 @@
 
 | Project | Description | Stack |
 |--------|----------|------|
-| [**Sortify**](https://github.com/acidless/sortify) | Algorithms visualizer | React |
+| [**Sortify**](https://github.com/acidless/sortify) | Interactive algorithm visualizer | React |
 | [**Stateus**](https://github.com/acidless/stateus) | Lightweight library for state management | TypeScript |
 | [**Three Space 3D**](https://github.com/acidless/three-space) | Interactive 3D model of the Solar System | Three.js |
 | [**KP11 Messenger**](https://github.com/acidless/kp11-messenger), [**KP11 Messenger Server**](https://github.com/acidless/kp11-messenger-server) | Messenger for college | React, Nest.js |
