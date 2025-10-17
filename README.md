@@ -14,8 +14,7 @@
 - 🌱 I am working on a library for state management
 - 💂 English level B2
 - 📫 Сontact me: odkukunov@gmail.com | https://t.me/acidless13
-
----
+<br>
 
 ## 🚀 My projects
 
