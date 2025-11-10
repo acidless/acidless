@@ -11,7 +11,7 @@
 - 💼 Currently looking for a job as a Frontend Developer (React, TypeScript, Vue)
 - 🎓 Studying Software Engineering at ITMO University
 - 🛠 I love learning new technologies
-- 🌱 I am working on a library for state management
+- 🌱 I am working on the "Family Multibank" application for the VTB API Hackathon.
 - 💂 English level B2
 - 📫 Сontact me: odkukunov@gmail.com | https://t.me/acidless13
 <br>
@@ -20,11 +20,11 @@
 
 | Project | Description | Stack |
 |--------|----------|------|
+| [**Family Multibank**](https://github.com/acidless/vtb-hackaton-2025-team063) | PWA application combining multiple bank APIs | Next.js, Nest.js |
 | [**Sortify**](https://github.com/acidless/sortify) | Interactive algorithm visualizer | React |
 | [**Stateus**](https://github.com/acidless/stateus) | Lightweight library for state management | TypeScript |
 | [**Three Space 3D**](https://github.com/acidless/three-space) | Interactive 3D model of the Solar System | Three.js |
 | [**KP11 Messenger**](https://github.com/acidless/kp11-messenger), [**KP11 Messenger Server**](https://github.com/acidless/kp11-messenger-server) | Messenger for college | React, Nest.js |
-| [**Yandex Schedule API**](https://github.com/acidless/YandexScheduleAPI) | Library for working with the Yandex.Schedules API | C++ |
 | [**Rubitnizer**](https://github.com/acidless/rubitnizer) | Task manager with drag-and-drop and user-friendly UI | Angular, Electron |
 
 
