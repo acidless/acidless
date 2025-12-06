@@ -11,7 +11,6 @@
 - 💼 Currently looking for a job as a Frontend Developer (React, TypeScript, Vue)
 - 🎓 Studying Software Engineering at ITMO University
 - 🛠 I love learning new technologies
-- 🌱 I am working on the "Family Multibank" application for the VTB API Hackathon.
 - 💂 English level B2
 - 📫 Сontact me: odkukunov@gmail.com | https://t.me/acidless13
 <br>
