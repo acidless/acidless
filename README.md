@@ -9,7 +9,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="230">
 
 - 💼 Yandex Frontend Developer
-- 🎓 Studying Software Engineering at ITMO University
 - 🛠 I love learning new technologies
 - 💂 English level B2
 - 📫 Сontact me: odkukunov@gmail.com | https://t.me/acidless13
