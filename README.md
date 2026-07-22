@@ -1,16 +1,17 @@
 <h1 align="center">Hi! I'm Oleg 👋</h1>
 
 <p align="center">
-  Front-end developer (React and Vue) • Familiar with back-end development • Previously interested in low-level programming
+  Frontend Engineer @ Yandex • Building scalable React & TypeScript applications used by millions of users.
 </p>
 
 ## 🧠 About me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="230">
 
-- 💼 Yandex Frontend Developer
-- 🛠 I love learning new technologies
-- 💂 English level B2
+- 🏢 Frontend Engineer @ Yandex
+- ⚛️ React • TypeScript • Next.js
+- 🚀 Interested in Frontend Architecture, DX & Performance
+- 🌍 Open to Remote Opportunities
 - 📫 Сontact me: odkukunov@gmail.com | https://t.me/acidless13
 <br>
 
@@ -18,10 +19,10 @@
 
 | Project | Description | Stack |
 |--------|----------|------|
-| [**Family Multibank**](https://github.com/acidless/vtb-hackaton-2025-team063) | PWA application combining multiple bank APIs | Next.js, Nest.js |
-| [**Sortify**](https://github.com/acidless/sortify) | Interactive algorithm visualizer | React |
-| [**Stateus**](https://github.com/acidless/stateus) | Lightweight library for state management | TypeScript |
-| [**Three Space 3D**](https://github.com/acidless/three-space) | Interactive 3D model of the Solar System | Three.js |
+| [**Family Multibank**](https://github.com/acidless/vtb-hackaton-2025-team063) | Multi-bank financial platform (VTB API Hackathon Winner) | Next.js, Nest.js |
+| [**Sortify**](https://github.com/acidless/sortify) | Interactive algorithm visualization platform | React |
+| [**Stateus**](https://github.com/acidless/stateus) | Lightweight React state management library | TypeScript |
+| [**Three Space 3D**](https://github.com/acidless/three-space) | Interactive Solar System built with Three.js | Three.js |
 | [**KP11 Messenger**](https://github.com/acidless/kp11-messenger), [**KP11 Messenger Server**](https://github.com/acidless/kp11-messenger-server) | Messenger for college | React, Nest.js |
 | [**Rubitnizer**](https://github.com/acidless/rubitnizer) | Task manager with drag-and-drop and user-friendly UI | Angular, Electron |
 
